@@ -1,4 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit } from "@angular/core";
+
+// gitimport { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-joe',
@@ -10,7 +12,6 @@ export class JoeComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    console.log("Ashraf");
   }
 
 }
