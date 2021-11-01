@@ -12,6 +12,8 @@ export class JoeComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    console.log("Asharf");
+
   }
 
 }
