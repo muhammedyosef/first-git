@@ -6,10 +6,12 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./ashraf.component.sass']
 })
 export class AshrafComponent implements OnInit {
-
   constructor() { }
 
   ngOnInit(): void {
+  console.log("mohamed youssef");
+
   }
+
 
 }
